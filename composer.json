@@ -1,0 +1,16 @@
+{
+    "name": "acer/utsarya",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arya"
+        }
+    ],
+    "require": {}
+}
